@@ -119,6 +119,10 @@ h2 {
   top: 5px;
   left: 5px; }
 
+  .cds{
+    color: #fff;
+  }
+
 @-webkit-keyframes sk-innerCircle {
   0% {
     -webkit-transform: rotate(0);
